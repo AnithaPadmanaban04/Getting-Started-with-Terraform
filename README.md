@@ -1,16 +1,12 @@
 # Getting-Started-with-Terraform
-Creating an Amazon EC2 instance using Terraform involves defining the necessary resources in a Terraform configuration file and then applying it. Below is a step-by-step guide to help you set up an AWS EC2 instance using Terraform.
 
-# AWS Account: 
+To get started with Terraform to create resources in AWS, you need to set up your environment and create Terraform configuration files to define the AWS resources you want to provision. 
 
-* You must have an AWS account to create and manage resources on the AWS cloud. If you don’t already have this, you can sign up for an account and use the free tier [here](https://aws.amazon.com/). 
+Here's a detailed guide to walk you through the steps:
 
-# Step 2: Set Up Terraform and AWS CLI
+Step 1: [Create an AWS Account](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjK-L7i0faFAxXvSf8BHeQaDeMYABAAGgJtZA&ase=2&gclid=CjwKCAjw3NyxBhBmEiwAyofDYf3qf7uZXztqX2O-TNmlc23hr8VRWrI5M7vwHOlswDi3I_XVe5FuYhoC1pwQAvD_BwE&ohost=www.google.com&cid=CAESVeD20ymFr9dxH0WWFfg2qASB1rKzUgmaXFepbjhMR2t3jeZCb0t5Fnh0vlxa35B3Fey-7muyd9zva7mEuf7qzGBUVGVlH6UjkX7LvLrZ2ULWaclWV8c&sig=AOD64_3BshBvlhKpuPGxQ9RhDAmpsMPzEw&q&nis=4&adurl&ved=2ahUKEwjPwrji0faFAxUNkYkEHUxIDu4Q0Qx6BAgOEAE)
 
-* Install Terraform on your local machine if you haven't already. Follow the instructions from the [Terraform website]().
-  
-* [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and configure your AWS credentials using aws configure command. You'll need your AWS Access Key, Secret Access Key, Region, and Output format.
+Step 2: [Download and Configure Terraform](https://github.com/aniwardhan/Getting-Started-with-Terraform/blob/main/How%20to%20Install%20Terraform%20on%20Windows.md) 
 
-# Step 3: Create a New Directory for Terraform Configuration
+Step 3: [Install and Configure AWS CLI](https://github.com/aniwardhan/Getting-Started-with-Terraform/blob/main/Install%20AWS%20CLI.md) 
 
-Create a new directory to contain your Terraform files. This will help keep your configuration organized.
