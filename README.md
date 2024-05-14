@@ -10,5 +10,5 @@ Step 2: [Download and Configure Terraform](https://github.com/aniwardhan/Getting
 
 Step 3: [Install and Configure AWS CLI](https://github.com/aniwardhan/Getting-Started-with-Terraform/blob/main/Install%20AWS%20CLI.md)
 
-Step 4: [Download and Install Microsoft Visual Studio Editor](https://code.visualstudio.com/download)
+Step 4: [Download and Install Microsoft Visual Studio Editor]([https://code.visualstudio.com/download](https://github.com/aniwardhan/Getting-Started-with-Terraform/blob/main/Install%20MS%20Visual%20Studio.md))
 
