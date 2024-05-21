@@ -6,4 +6,4 @@ After installation Open **VS Code → Click on “Extensions” → Search “Te
 
 Install **“HashiCorp Terraform”** , this will be helpful for the writing the code as it provides with syntax highlighting, code formatting, and suggestions.
 
-![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/4bbec914-7751-4540-8ea5-98f6387ef906)
+![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/3bba8bf0-a4e9-4f7f-9d6e-d357970270b8)
