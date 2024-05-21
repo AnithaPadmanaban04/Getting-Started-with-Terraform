@@ -4,36 +4,35 @@
 
 * Goto IAM services in AWS Console and click on **Add User**
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/ba3c3638-4e00-4260-aa8e-ec47808fa3e6)
+  ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/f0417193-e26f-489b-9be5-f012949334f5)
 
 * Provider username and user access to the AWS Management Console as shown below:
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/6fb37f61-ac1e-41c6-8cf4-b787b330ed7a)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/ff9a9808-7c3d-4914-8fa5-93f159601bd5)
 
 * Add **Administrator Permissions** to our user
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/c9f497b8-92e6-4b50-92cc-b29e96433e0b)
+  ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/ed3e13d6-bd00-49de-ad52-1f769e3e7c1b)
 
 * Click on Next and click on **Create User**
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/b813d96c-a500-459b-bb69-8a289b348ecc)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/a31112d2-0f1f-4571-a49f-13d147c165de)
 
 * Once user created, click on the user and select **Security Credentials**  then  click on **Create access key** to generate our key
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/79388359-e379-4802-b2ef-b6e77e387a39)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/8e9e1134-2911-44ff-a7fc-74069b91b38d)
 
  Select CLI and click on next
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/8287ca94-a314-4a77-870b-64d23d42616b)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/96ec8289-43c0-4898-b3d9-8e56c77fd732)
 
   Click on **Create access key**
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/2a8b4964-2b24-4183-8b79-43a7dfce6a7f)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/f3a0cbbf-0196-445b-ac22-4ff1a60f8f9c)
 
-  Download the access key
+ Download the access key
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/7007992a-e776-4984-8d19-cf52b307f3fc)
-
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/358fa4e1-cc30-416e-b83d-ced803db8b39)
 
 ### Step 2: Install the AWS CLI version 2
 
@@ -43,5 +42,6 @@
 
 * After installing the AWS CLI, you can set it up by running ```aws configure``` command in a terminal window and provide the access key that we generated
 
-  ![image](https://github.com/aniwardhan/Getting-Started-with-Terraform/assets/80623694/c0e5f129-2197-426d-a225-3009eef7ee42)
+ ![image](https://github.com/AnithaPadmanaban04/Getting-Started-with-Terraform/assets/170385807/c9603021-9cdf-494b-8693-fd94f2f9df98)
+
 
